@@ -1,5 +1,5 @@
 streamlit
-transformers
+transformers[torch]
 langchain
 langchain_community
 python-dotenv
